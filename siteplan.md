@@ -11,29 +11,41 @@ For more up-to-date information, follow
 
 Organisations
 
-	Data Journalism/Newsrooms
+	Data Journalism and Newsrooms
 	
 		Kompas
 		CNN Indonesia
+		Indonesian Data Journalism Network
+		Good News From Indonesia
+		Journocoders Indonesia
 		
-	Data Analytics
+	Data Visualization and Analytics
 	
 		Katadata
-
-	Research
+		Satu Data Indonesia
+		Badan Pusat Statistik
+		Jakarta Smart city
+		
+	Research and Advocacy
 		
 		Pulse Lab Jakarta
 		ITDP Indonesia
+		Open Data Lab JKT
 
 	Data Arts
-	
 
 Job Board
 
+	Create google form to display this
 
-People (freelancers, individuals, etc)
 
-	Freelancers (people who work as freelancers on data visualization-related projects)
+People
+
+	Freelancers 
+	
+		(people who work as freelancers on data visualization-related projects)
+		
+		Create form so people can add themselves
 
 	People (can be working in companies, research etc - a list of people who work with data
 			and data visualization in Jakarta)
@@ -49,9 +61,10 @@ Opportunities
 
 	Scholarships
 
-
 Events
 
 	Meetups
+	
+	
 
 	Calendar of events?
