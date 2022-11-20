@@ -4,29 +4,35 @@ layout: default
 
 # Welcome to Dataviz Jakarta!
 
-Welcome message - 
+Welcome to everyone new or already involved in data visualization, this website aims to guide you through the local scene in Jakarta and surrounding areas of ...?
 
-For more up-to-date information, follow #vizjkt, @vizjkt@vis.social or join our Telegram Channel/Whatsapp group/or?
+This site is maintained by _Adieb Haryadi, Adityo Dwijananto, Arran Ridley, and Ferry Firmansyah Putra_ who are co-organisers of the _Data Visualization Society Jakarta Membership Chapter_. For More information on the _Data Visualization Society_ please have a look [here](https://www.datavisualizationsociety.org/mission)
+
+For more up-to-date information, follow #vizjkt, @vizjkt@vis.social or join our Telegram Channel/Whatsapp group/.
+
+* * *
 
 # Organisations
 
 ## Agencies or design studios
 
-## Data Journalism/Newsrooms (Journalism?)
+## Data Journalism and Newsrooms
 
-## Data Analytics
+## Data Visualization and Analytics
 
-## Research
+## Research and Advocacy
 
 ## Data Arts
+
+* * *
 	
 # Job Board
 
-We can have a link to a googlesheet that people can upload jobs to.
+Link to a googlesheet where people can upload jobs to.
 
-# People 
+* * *
 
-freelancers, individuals, etc...
+# People
 
 ## Freelancers 
 
@@ -36,11 +42,15 @@ People who work as freelancers on data visualization-related projects.
 
 Can be working in companies, research etc - a list of people who work with data and data visualization in Jakarta
 
+* * *
+
 # Opportunities
 
 ## Funding
 
 ## Scholarships
+
+* * *
 
 # Events
 
@@ -48,11 +58,12 @@ Can be working in companies, research etc - a list of people who work with data 
 
 Regular meetup groups
 
-## Calendar of events?
+## Calendar
 
 A google sheet or form that this information can be updated with.
+
+* * *
 
 # Newsletter
 
 A sign up for a monthly newsletter.
-
