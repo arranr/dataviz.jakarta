@@ -11,6 +11,8 @@ For more up-to-date information, follow
 
 Organisations
 
+	Agencies or design studios
+
 	Data Journalism and Newsrooms
 	
 		Kompas
