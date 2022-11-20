@@ -2,20 +2,28 @@ Dataviz Jakarta
 
 Welcome message:
 
+Welcome to everyone new or already involved in data visualization, this website aims to guide you through the local scene in Jakarta and surrounding areas of ...? 
+
+This site is maintained by Adieb Haryadi, Adityo Dwijananto, Arran Ridley, and Ferry Firmansyah Putra who are co-organisers of the Data Visualization Society Jakarta Membership Chapter. For More information on the Data Visualization Society please have a look here https://www.datavisualizationsociety.org/mission
+
 For more up-to-date information, follow 
 #vizjkt, @vizjkt@vis.social or join our Telegram Channel/Whatsapp group/.
 
 Organisations
 
-
 	Data Journalism/Newsrooms
-
-
+	
+		Kompas
+		CNN Indonesia
+		
 	Data Analytics
-
+	
+		Katadata
 
 	Research
-
+		
+		Pulse Lab Jakarta
+		ITDP Indonesia
 
 	Data Arts
 	
@@ -25,11 +33,15 @@ Job Board
 
 People (freelancers, individuals, etc)
 
-
 	Freelancers (people who work as freelancers on data visualization-related projects)
 
 	People (can be working in companies, research etc - a list of people who work with data
 			and data visualization in Jakarta)
+		
+		Adieb Haryadi
+		Adityo Dwijananto
+		Arran Ridley
+		Ferry Firmansyah Putra
 
 Opportunities
 
